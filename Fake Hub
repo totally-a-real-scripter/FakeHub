@@ -5,5 +5,5 @@ spawn(function()
 end)
 wait(1)
 if game.placeId == 5780309044 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/stands%20awakening?token=AULL7Y5HEBTEPXFR6MMB24TAXLMI4"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/stands%20awakening?token=AULL7Y3WSMJ4AHMTI763ZTTAXLP3O"))()
   end
