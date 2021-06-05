@@ -8,8 +8,8 @@ if game.placeId == 5780309044 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/stands%20awakening?token=AULL7Y3WSMJ4AHMTI763ZTTAXLP3O"))()
   game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded",Duration=3})
   
-  else if game.placeId == 537413528 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/babft%20auto%20farm?token=AULL7Y6CZGKUA55CPTWL2PDAXO6IQ"))()
+  elseif game.placeId == 537413528 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/babft%20auto%20farm?token=AULL7Y5RRNIKGAFAEOUSWDTAXO6RO"))()
   game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded",Duration=3})
   
  else
