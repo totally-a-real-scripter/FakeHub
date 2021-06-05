@@ -9,5 +9,5 @@ if game.placeId == 5780309044 then
  
  else
  
-    loadstring(game:HttpGet(" https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/universal%20esp?token=AULL7Y3SOGV3HGDFNN2EYULAXOLR6"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/universal%20esp?token=AULL7Y3SDOVOIPRWCZBSYMDAXOZ6I"))()
   end
