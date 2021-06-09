@@ -21,4 +21,3 @@ if game.placeId == 5780309044 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/universal%20esp?token=AULL7Y3SDOVOIPRWCZBSYMDAXOZ6I"))()
     game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded Universal ESP",Duration=3})
   end
-© 2021 GitHub, Inc.
