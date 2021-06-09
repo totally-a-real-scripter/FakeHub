@@ -13,8 +13,7 @@ if game.placeId == 5780309044 then
   game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded BABFT GUI",Duration=3})
   
    elseif game.placeId == 662417684 then
-  loadstring(game:HttpGet("
-https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/lucky%20blocks%20battle%20grounds?token=AULL7Y5FCJVDO66WCYXSMPLAYADXC"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/lucky%20blocks%20battle%20grounds?token=AULL7Y5FCJVDO66WCYXSMPLAYADXC"))()
   game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded LBBG GUI",Duration=3})
   
  else
@@ -22,3 +21,4 @@ https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/lucky%20b
     loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/universal%20esp?token=AULL7Y3SDOVOIPRWCZBSYMDAXOZ6I"))()
     game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded Universal ESP",Duration=3})
   end
+© 2021 GitHub, Inc.
