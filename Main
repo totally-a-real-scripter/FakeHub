@@ -1,7 +1,7 @@
 local Notification = loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/IrisBetterNotifications.lua"))()
 
 spawn(function()
-  Notification.Notify("credits", "thanks to ‘andrew#1570 for the SA script and IRIS#0410 for this Notification script :)", "rbxassetid://4914902889");
+  Notification.Notify("This is epic", "Yeah remember to use an alt!", "rbxassetid://4914902889");
 end)
 wait(1)
 if game.placeId == 5780309044 then
