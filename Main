@@ -5,19 +5,19 @@ spawn(function()
 end)
 wait(1)
 if game.placeId == 5780309044 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/stands%20awakening?token=AULL7Y3WSMJ4AHMTI763ZTTAXLP3O"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/stands%20awakening"))()
   game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded SA GUI",Duration=3})
   
   elseif game.placeId == 537413528 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/babft%20auto%20farm?token=AULL7Y5RRNIKGAFAEOUSWDTAXO6RO"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/babft%20auto%20farm"))()
   game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded BABFT GUI",Duration=3})
   
    elseif game.placeId == 662417684 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/lucky%20blocks%20battle%20grounds?token=AULL7YYOCPDNKM7QMF7L7YLAYAFWU"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/lucky%20blocks%20battle%20grounds"))()
   game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded LBBG GUI",Duration=3})
   
  else
  
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/universal%20esp?token=AULL7Y3SDOVOIPRWCZBSYMDAXOZ6I"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/totally-a-real-scripter/FakeHub/main/universal%20esp"))()
     game.StarterGui:SetCore("SendNotification",{Title="Notification",Text="Loaded Universal ESP",Duration=3})
   end
